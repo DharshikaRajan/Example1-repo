@@ -1,0 +1,22 @@
+{
+  "name": "aws-project",
+  "version": "1.0.0",
+  "description": "Kindly run \"npm install\" to install dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1635.0",
+    "moment": "^2.30.1",
+    "serverless-offline": "^3.25.17",
+    "underscore": "^1.13.6",
+    "uuid": "^3.4.0"
+  },
+  "devDependencies": {
+    "serverless-domain-manager": "^2.6.5"
+  }
+}
